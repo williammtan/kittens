@@ -1,5 +1,7 @@
 # Kittens
 
+Math poster project, by William Tan (Mr. Thiessen's class)
+
 Hypothesis: In just 18 months, this female cat can have 2000 descendants.
 
 ![Prompt](prompt.png)
